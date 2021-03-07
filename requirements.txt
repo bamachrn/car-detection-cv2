@@ -1,0 +1,8 @@
+ tensorflow
+ pandas
+ numpy
+ streamlit
+ opencv-contrib-python
+ matplotlib
+ random2
+ pytest-warnings
